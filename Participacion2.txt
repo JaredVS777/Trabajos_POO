@@ -7,4 +7,3 @@ Puntero:Nos permite acceder y manipulas los atributos y los metodos de un objeto
 Constructor:Inicializa los atributos de la clase para que no esten vacios.
 Git Hub: Es una herramienta en línea para alojar, gestionar y colaborar en proyectos de desarrollo de software.
 JARED VALENZUELA
-PROGRAMACION POO
