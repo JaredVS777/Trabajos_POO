@@ -1,0 +1,9 @@
+Objeto: Es una representacion que lo tomamos del mundo real para realizar alguna representacion logica.
+Metodo: Son las acciones o las caracteristicas que comparte con los demas objetos.
+Atributo: Son las acciones propias que tiene un objeto y lo diferencia de los demas objetos.
+Setters:Son metodos que se utiliza para asignar valores a los atributos de un objeto que estemos trabajando.
+Getters:Son metodos que se utiliza para acceder a los atributos de un objeto fuera de la clase.
+Puntero:Nos permite acceder y manipulas los atributos y los metodos de un objeto del cual estemos trabajando
+Constructor:Inicializa los atributos de la clase para que no esten vacios.
+Git Hub: Es una herramienta en línea para alojar, gestionar y colaborar en proyectos de desarrollo de software.
+JARED VALENZUELA
